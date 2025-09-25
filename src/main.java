@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
 
+
         int birthMonth = 9;
         String trash = "";
         Scanner input = new Scanner(System.in);
